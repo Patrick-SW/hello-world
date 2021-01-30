@@ -1,1 +1,3 @@
-making some changes to this document
+making some changes to this document.
+
+new text adding learning stuff.
